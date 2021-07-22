@@ -12,7 +12,7 @@
 
 ## 使用方法
 
-python3 ecology_exp.py  -u http://xxx.xxx.xxx.xxx/ -p command
+python3 ecology_exp.py  -u http://xxx.xxx.xxx.xxx/ -c command
 
 本工具不具有回显功能
 
